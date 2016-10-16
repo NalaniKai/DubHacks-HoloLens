@@ -1,0 +1,31 @@
+Animals
+1) 
+
+Health
+1) App, personal purchases, notify of recalls and safety from news, check 
+   frequent items more often, flag items
+	-home use
+	-schools
+	-restaurants
+	-soup kitchens 
+	-https://www.data.gov/safety/ 
+	-http://catalog.data.gov//dataset?groups=safety3175#topic=safety_navigation 
+
+Homeless
+1) 
+
+Help
+1) 911, gps coordinates
+2) natural disaster volunteer poll by location, donations, list & contact &
+   type of help to assist 
+	-packaging food
+	-donating food, basic materials
+	-assembling care packages
+	
+Ag
+1) data of growing, what grew well in what conditions, with what fertilizers
+   with what planted before it
+
+Transportation
+1) closest path to destination stop if took uber or friend dropped you offf
+   at the nearest direct path stop
